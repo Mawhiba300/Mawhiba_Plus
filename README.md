@@ -24,9 +24,9 @@ The platform focuses on creating a complete talent discovery and development exp
 ## 🌟 Our Goal
 Transform talent discovery into an **engaging, personalized, and science-based experience** — empowering children to grow confidently in their abilities.
 
-##  👥 Team Members 
-
 ---
+
+##  👥 Team Members 
 
 ### **Habiba Salman – Team Leader & Visual Designer**  
 **Primary:** Team coordination, project direction, content planning, and GitHub management.  
