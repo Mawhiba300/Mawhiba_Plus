@@ -11,9 +11,13 @@ Mawhiba+ is a smart platform that identifies each child’s unique strengths—*
 
 ##  👥 Team Members 
 
-Habiba Salman – Team Leader & Visual Designer
-Primary: Team coordination, project direction, content planning, and GitHub management.
-Secondary: Developing the color palette, creating the moodboard, leading the presentation design, and sketching concepts.  
+---
+
+**Habiba Salman – Team Leader & Visual Designer**
+
+**Primary**: Team coordination, project direction, content planning, and GitHub management.
+
+**Secondary**: Developing the color palette, creating the moodboard, leading the presentation design, and sketching concepts.  
 
 Sarah Mohamed – Logo Designer
 Primary: Logo sketching, concept development, and visual refinement.
