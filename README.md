@@ -51,6 +51,7 @@ Transform talent discovery into an **engaging, personalized, and science-based e
 ### **Norhan Alaa – Color Specialist**  
 **Primary:** Developing the brand’s color palette, moodboard, and visual direction.  
 **Secondary:** Creating brand guidelines and testing the palette across mockups and real-world applications.
+
 ---
 # 🗂️ Mawhiba+ | Work Plan
 
