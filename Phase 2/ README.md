@@ -22,7 +22,64 @@ The platform focuses on creating a complete talent discovery and development exp
 
 ## 🌟 Our Goal
 Transform talent discovery into an **engaging, personalized, and science-based experience** — empowering children to grow confidently in their abilities.
+# 🗂️ Mawhiba+ | Work Plan
 
+---
+
+## 1️⃣ Research & Preparation 
+ 
+- Define the project concept and objectives.  
+- Naming the platform.  
+- Build core identity (mission & values).  
+- Identify target audience and competitors.  
+- Gather visual references (Behance / Pinterest).  
+- Create Moodboard (colors, typography, visual vibe).  
+- Draft Creative Brief / USP.  
+
+---
+
+## 2️⃣ Visual Identity Building 
+
+- Create initial logo sketches and test typography and color palette.  
+- Conduct internal review and finalize the general design direction.  
+- Develop the logo (Primary, Secondary, Monogram) and finalize colors and fonts (Arabic/English).  
+- Design talent icons, complementary shapes, patterns, and backgrounds.  
+
+---
+
+## 3️⃣ Expansion & Applications
+
+- Design main applications:  
+  - Posters & Flyers for the academy  
+  - Social Media Posts  
+- Create mockups:  
+  - ID Card, Notebook, Socks, T-shirt/Uniform    
+
+- Conduct a comprehensive review of the visual identity system.  
+
+---
+
+## 4️⃣ Compilation & Delivery 
+
+- Prepare **Brand Book** (organize AI, PSD, PNG, PDF files).  
+- Review and coordinate deliverables:  
+  - Logo & applications  
+  - Colors & fonts  
+  - Icons & patterns  
+  - Mockups  
+- Prepare **Presentation Deck** (PowerPoint or PDF).  
+- Final proofreading & file organization.  
+- Deliver **Brand Book** (printed & digital copy).  
+
+---
+
+## 5️⃣ Presentation & Preparation 
+
+- Train on project presentation.  
+- Prepare expected Q&A.  
+- Present the project in front of the committee.
+  
+---
 ## 👨‍🏫 Instructor
 Eng. Abir Ismail
 
