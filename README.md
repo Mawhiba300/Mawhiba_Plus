@@ -23,9 +23,7 @@ The platform focuses on creating a complete talent discovery and development exp
 
 ## 🌟 Our Goal
 Transform talent discovery into an **engaging, personalized, and science-based experience** — empowering children to grow confidently in their abilities.
-# 🗂️ Mawhiba+ | Work Plan
 
----
 ##  👥 Team Members 
 
 ---
@@ -54,7 +52,9 @@ Transform talent discovery into an **engaging, personalized, and science-based e
 **Primary:** Developing the brand’s color palette, moodboard, and visual direction.  
 **Secondary:** Creating brand guidelines and testing the palette across mockups and real-world applications.
 ---
+# 🗂️ Mawhiba+ | Work Plan
 
+---
 ## 1️⃣ Research & Preparation 
  
 - Define the project concept and objectives.  
