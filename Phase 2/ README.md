@@ -1,6 +1,6 @@
 # 📚 Mawhiba+ | موهبة بلس
 
-An educational academy dedicated to discovering and nurturing the talents of children aged 5 to 15.  
+An educational academy dedicated to discovering and nurturing the talents of children aged 5 to 10.  
 
 ---
 
