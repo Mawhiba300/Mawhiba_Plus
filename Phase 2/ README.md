@@ -23,3 +23,18 @@ The platform focuses on creating a complete talent discovery and development exp
 ## 🌟 Our Goal
 Transform talent discovery into an **engaging, personalized, and science-based experience** — empowering children to grow confidently in their abilities.
 
+## 👨‍🏫 Instructor
+Eng. Abir Ismail
+
+---
+
+## 📂 Project Files
+Access all project files here:  
+🔗 [Google Drive Folder](https://drive.google.com/drive/folders/1SnK6q9Yp1D-stH-gbrZ30G1t9vLPKbJt)  
+
+
+---
+
+## ⚖️ License
+All rights reserved © 2025 Habiba Salman | Mawhiba+
+
