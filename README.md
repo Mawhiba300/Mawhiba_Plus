@@ -9,37 +9,6 @@ Mawhiba+ is a smart platform that identifies each child’s unique strengths—*
 
 ---
 
-##  👥 Team Members 
-
----
-
-**Habiba Salman – Team Leader & Visual Designer**
-
-**Primary**: Team coordination, project direction, content planning, and GitHub management.
-
-**Secondary**: Developing the color palette, creating the moodboard, leading the presentation design, and sketching concepts.  
-
-Sarah Mohamed – Logo Designer
-Primary: Logo sketching, concept development, and visual refinement.
-Secondary: Creating logo versions, ensuring scalability, and developing visual patterns and storytelling illustrations.
-
-Sameh Ehab – Social Media Designer
-Primary: Designing social media posts and promotional visuals that reflect the brand identity, and exploring logo symbol variations.
-Secondary: Applying brand colors and typography to layouts, creating templates, and maintaining visual consistency across platforms.
-
-Badr Mohamed – English Typography Specialist
-Primary: Selecting English fonts consistent with the Arabic identity and overall brand mood.
-Secondary: Supporting social media and branding layouts through font pairing and typographic harmony.
-
-Mohamed Hany – Mockup Designer
-Primary: Creating realistic brand mockups that visualize applications across stationery, digital, and environmental media.
-Secondary: Assisting in layout adaptation, maintaining visual hierarchy, and ensuring design readability.
-
-Norhan Alaa – Color Specialist
-Primary: Developing the brand’s color palette, moodboard, and overall visual direction.
-Secondary: Creating brand guidelines and testing palette applications across mockups and real-world visuals.
-
----
 
 ## 🎯 Our Focus
 The platform focuses on creating a complete talent discovery and development experience that includes:  
@@ -56,6 +25,34 @@ The platform focuses on creating a complete talent discovery and development exp
 Transform talent discovery into an **engaging, personalized, and science-based experience** — empowering children to grow confidently in their abilities.
 # 🗂️ Mawhiba+ | Work Plan
 
+---
+##  👥 Team Members 
+
+---
+
+### **Habiba Salman – Team Leader & Visual Designer**  
+**Primary:** Team coordination, project direction, content planning, and GitHub management.  
+**Secondary:** Developing the color palette, creating the moodboard, leading presentation design, and sketching early concepts.
+
+### **Sarah Mohamed – Logo Designer**  
+**Primary:** Logo sketching, concept development, and visual refinement.  
+**Secondary:** Creating logo versions, ensuring scalability, and developing visual patterns and storytelling illustrations.
+
+### **Sameh Ehab – Social Media Designer**  
+**Primary:** Designing social media posts and promotional visuals that reflect the brand identity, and exploring symbol variations for the logo.  
+**Secondary:** Applying brand colors and typography to layouts, creating templates, and maintaining visual consistency across platforms.
+
+### **Badr Mohamed – English Typography Specialist**  
+**Primary:** Selecting English fonts that align with the Arabic identity and overall brand mood.  
+**Secondary:** Supporting social media and branding layouts through font pairing and typographic harmony.
+
+### **Mohamed Hany – Mockup Designer**  
+**Primary:** Creating realistic brand mockups that showcase applications across stationery, digital platforms, and environmental media.  
+**Secondary:** Assisting in layout adaptation, maintaining visual hierarchy, and ensuring clarity in design outputs.
+
+### **Norhan Alaa – Color Specialist**  
+**Primary:** Developing the brand’s color palette, moodboard, and visual direction.  
+**Secondary:** Creating brand guidelines and testing the palette across mockups and real-world applications.
 ---
 
 ## 1️⃣ Research & Preparation 
